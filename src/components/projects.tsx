@@ -23,7 +23,7 @@ export default function Project() {
   const [error, setError] = useState<string | null>(null)
 
   useEffect(() => {
-    const fetchRepos = async () => {
+    const fetchRepos = async ()=> {
       try {
         const res = await fetch("https://api.github.com/users/priyangshu1808/repos")
         if (!res.ok) throw new Error("Failed to fetch projects.")

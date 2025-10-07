@@ -327,7 +327,7 @@ export default function AboutMe() {
               <div className="flex-1 space-y-4 mt-6 md:mt-0">
                 <p className="text-lg text-foreground dark:text-foreground-dark">
 
-                  I'm a <strong>Full Stack Web Developer</strong> with a passion for building
+                  I&apos;m a <strong>Full Stack Web Developer</strong> with a passion for building
                   robust, scalable, and user-centric applications. My expertise includes
                   working with technologies like <strong>Next.js</strong>, <strong>React</strong>,
                   <strong> MongoDB</strong>, and <strong>Express</strong>.
@@ -337,8 +337,8 @@ export default function AboutMe() {
                   and bringing both sides together in production-ready applications.
                 </p>
                 <p className="text-lg text-foreground dark:text-foreground-dark">
-                  I'm always exploring new tools, frameworks, and ways to optimize the dev
-                  process. Let's build something amazing!
+                  I&apos;m always exploring new tools, frameworks, and ways to optimize the dev
+                  process. Let&apos;s build something amazing!
                 </p>
 
                 <Separator className="my-4" />
