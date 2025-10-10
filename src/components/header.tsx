@@ -70,7 +70,7 @@ const Header = () => {
 
           {/* Contact Me Button */}
           <a
-            href="mailto:youremail@example.com"
+            href="mailto:kolondey.dey@gmail.com"
             className="inline-block px-6 py-2 bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 text-white rounded-md shadow hover:opacity-90 transition font-semibold"
           >
             Contact Me
@@ -80,7 +80,7 @@ const Header = () => {
         {/* Social Icons */}
         <div className="flex justify-center md:justify-start gap-5 mt-2">
           <Link
-            href="https://github.com/your-username"
+            href="https://github.com/Priyangshu1808"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
@@ -90,7 +90,7 @@ const Header = () => {
           </Link>
 
           <Link
-            href="https://linkedin.com/in/your-username"
+            href="https://linkedin.com/in/priyangshu-dey-a0aa4137b"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
@@ -100,7 +100,7 @@ const Header = () => {
           </Link>
 
           <Link
-            href="https://instagram.com/your-username"
+            href="https://instagram.com/priyangshu.dey1808"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Instagram"
